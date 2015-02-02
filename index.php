@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Jean &amp; John Wedding RSVP Theme</title>
+    <title>Mary &amp; Sukumar Wedding RSVP Theme</title>
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
         <meta name="description" content="Insert your description here" />
@@ -84,7 +84,7 @@
                             <li><a href="#menu2">Photos</a></li>
                             <li><a href="#menu3">The Wedding</a></li>
                             <div id="names-container">
-                            	<span class="name-one">Jean</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">John</span>
+                            	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
                             <li><a href="#menu5">Gifts</a></li>
@@ -107,18 +107,18 @@
                         </blockquote>
                     </div><!-- .twelvecol -->
                     <div class="fourcol story">
-                        <h2 style="margin-top:30px;">Jean</h2>
+                        <h2 style="margin-top:30px;">Mary</h2>
                         <p><span class="dropcap">J</span>ohn came into my life at the most unexpected moment. We met at the local farmer's market on a lovely Saturday afternoon and the rest was history. I almost walked by him selling his goat cheese if he didn't say hi to me and offered his cheese sample. It didn't take much for him to charm his way into my heart, and after a cheesy joke or two he asked me out!</p>
 						<p>After months of dating this amazing funny man, I knew he's the one. He caught me off guard when he popped the question at the strangest of all places (a goat ranch!) while doing the most unromantic thing (milking a goat!) and I said yes to my cheesy man :)</p>
-                        <p>Please join me and John in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
+                        <p>Please join me and Sukumar in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
                         <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
                     </div><!-- .fourcol -->
                     <div class="fourcol">
                         <div class="imgStoryContainer"><img src="images/photos/story-photo.jpg" class="imgStory" /></div>
                     </div><!-- .fourcol -->
                     <div class="fourcol story last">
-                        <h2 style="margin-top:30px;">John</h2>
-                        <p><span class="dropcap">A</span>t first when I saw Jean, I thought she was way out of my league. No pretty woman like her would ever fall for a simple man who sells (and stinks of!) goat cheese for a living. But she blew my mind with her cheese knowledge and a "cheesy humor" to match, so I asked her out!</p>
+                        <h2 style="margin-top:30px;">Sukumar</h2>
+                        <p><span class="dropcap">A</span>t first when I saw Mary, I thought she was way out of my league. No pretty woman like her would ever fall for a simple man who sells (and stinks of!) goat cheese for a living. But she blew my mind with her cheese knowledge and a "cheesy humor" to match, so I asked her out!</p>
 						<p>We went on many dates and with each passing moment I fall helplessly (head over hells) in love with this beautiful and talented woman. She even love my crazy unpredictable antics! So after short months of dating I decided to pop the question. Just ask me in person, I'll tell you how I (really) did it!</p>
 						<p>We hope you can join us in our wedding celebration and share our blessed union. Plus there'll be a dance party where you shall witness our first dance ...and my two left feet.</p>
                         <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
