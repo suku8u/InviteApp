@@ -108,8 +108,8 @@
                     </div><!-- .twelvecol -->
                     <div class="fourcol story">
                         <h2 style="margin-top:30px;">Mary</h2>
-                        <p><span class="dropcap">J</span>ohn came into my life at the most unexpected moment. We met at the local farmer's market on a lovely Saturday afternoon and the rest was history. I almost walked by him selling his goat cheese if he didn't say hi to me and offered his cheese sample. It didn't take much for him to charm his way into my heart, and after a cheesy joke or two he asked me out!</p>
-						<p>After months of dating this amazing funny man, I knew he's the one. He caught me off guard when he popped the question at the strangest of all places (a goat ranch!) while doing the most unromantic thing (milking a goat!) and I said yes to my cheesy man :)</p>
+                        <p><span class="dropcap">S</span>ukumar xxxxxx>
+						<p>xxxxxxxx</p>
                         <p>Please join me and Sukumar in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
                         <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
                     </div><!-- .fourcol -->
@@ -118,9 +118,9 @@
                     </div><!-- .fourcol -->
                     <div class="fourcol story last">
                         <h2 style="margin-top:30px;">Sukumar</h2>
-                        <p><span class="dropcap">A</span>t first when I saw Mary, I thought she was way out of my league. No pretty woman like her would ever fall for a simple man who sells (and stinks of!) goat cheese for a living. But she blew my mind with her cheese knowledge and a "cheesy humor" to match, so I asked her out!</p>
-						<p>We went on many dates and with each passing moment I fall helplessly (head over hells) in love with this beautiful and talented woman. She even love my crazy unpredictable antics! So after short months of dating I decided to pop the question. Just ask me in person, I'll tell you how I (really) did it!</p>
-						<p>We hope you can join us in our wedding celebration and share our blessed union. Plus there'll be a dance party where you shall witness our first dance ...and my two left feet.</p>
+                        <p><span class="dropcap">A</span>t first when I saw Mary, I thought she was way out of my league.</p>
+						<p>xxxxxxxxxxxx</p>
+						<p>We hope you can join us in our wedding celebration and share our blessed union. Plus there'll be a dance party where you shall witness our first dance.</p>
                         <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
                     </div><!-- .fourcol .last -->
                 </div><!-- .row -->
@@ -179,9 +179,9 @@
                     <div class="fivecol">
                         <h2>Ceremony</h2>
                         <p>Our lovely wedding celebration will be held on <br/> 
-							<b>Sunday, Aug 25, 2013</b> at <b>5:00 p.m.</b> <br/>
-							at the beautiful Oceana Beach in San Diego. The address is: <br/> 
-                            <b>1234 Oceana Beach Front, San Diego CA 92008</b>
+							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
+							at the beautiful Crystal Mountain Resort in Enumclaw, WA The address is: <br/> 
+                            <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
                         </p>
 						<p><a href="https://maps.google.com/maps?ie=UTF8&cid=2206743020966521621&q=Tamarack+Surf+Beach&iwloc=A&gl=US&hl=en-US" target="_blank" class="map">Google Maps</a></p>
                     </div><!-- .fivecol -->
@@ -189,8 +189,8 @@
                     <div class="fivecol last">
                         <h2>Reception</h2>
                         <p>A reception dinner and dance party will immediately follow at
-                        	Oceana Courtyard located in Oceana Village Drive, San Diego.
-							The address is 1234 Oceana Village Dr., San Diego CA 92008. 
+                        	Crystal Mountain Resort at
+							The address is 33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022
                         </p>
                         <p>Hope to see you there after the ceremony!</p>
                     </div><!-- .fivecol .last -->
@@ -277,8 +277,8 @@
                 	<div class="twelvecol rsvp">
                     	<div class="rsvpParaContainer">
                     	<h2>RSVP</h2>
-                        <p>Please RSVP before Dec 31st 2012.<br/>
-                           For any question please email: <a href="mailto:youremailhere@emailadd.com">jeanjohnwedding@gmail.com</a>
+                        <p>Please RSVP before June 1st 2015.<br/>
+                           For any question please email: <a href="mailto:youremailhere@emailadd.com">sukumarmary@gmail.com</a>
                         </p>
 
                         <form id='rsvpForm' method='post' onsubmit='return false'>
