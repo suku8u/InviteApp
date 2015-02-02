@@ -62,7 +62,7 @@
                         <h1 class="mobile-hide">You are invited</h1>
                         <h1 class="alt mobile-hide">to our wedding</h1>
                         <h1 class="mobile-hide">on this day</h1>
-                        <h1 class="alt mobile-hide">25th Aug 2015</h1>
+                        <h1 class="alt mobile-hide">5th Sept 2015</h1>
                         <h1 class="mobile-hide">please join us!</h1>
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">rsvp now</a></h1>
                     </div><!-- #invitation -->
@@ -102,7 +102,7 @@
                 <div class="row">
                 	<div class="twelvecol">
                     	<blockquote>
-                        <p>"We met at the local farmer's market on a lovely Saturday afternoon and the rest was history."</p>
+                        <p>"We met on a lovely Sunday afternoon in Seattle. Can you imagine someone offering to help you when you are moving?"</p>
                         <img src="images/motif.png" />
                         </blockquote>
                     </div><!-- .twelvecol -->
