@@ -285,7 +285,7 @@
                            For any question please email: <a href="mailto:youremailhere@emailadd.com">maryandsukumar@gmail.com</a>
                         </p>
 
-                        <form id='rsvpForm' method='post' onsubmit='return false'>
+<form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
                         	<div class="sixcol">
                             	<div class="inputContainer">
                                     <p>Your Name</p>
@@ -306,15 +306,64 @@
                             <div class="sixcol last">
                             	<div class="inputContainer">
                                     <p># of guest(s) attending</p>
-                                    <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
+                                    <input type="text" id="guests" name="GuestsNumber" style="width:100px;" />
                                 </div><!-- .inputContainer -->
                             	<div class="inputContainer">
                                     <p>Full name of guest(s)</p>
-                                    <textarea id="guest-names" name="Guests-Names"></textarea>
+                                    <textarea id="guest-names" name="GuestsNames"></textarea>
                                 </div><!-- .inputContainer -->
                                     <button type="submit" id="submit" class="btn">SUBMIT</button>
-                            </div><!-- .sixcol .last -->
-                    	</form>
+                            </div><!-- .sixcol .last -->    
+</form>
+ 
+<?php
+/* Connect to SQL Azure */
+$server = "tcp:wbqa55dhmb.database.windows.net,1433"; 
+$user = "suku@wbqa55dhmb";
+$pass = "Stoked88!";
+$database = "testinvapp";
+ 
+$connectionoptions = array("Database" => $database, 
+                           "UID" => $user, 
+                           "PWD" => $pass);
+ 
+$conn = sqlsrv_connect($server, $connectionoptions);
+if($conn === false)
+{
+    die(print_r(sqlsrv_errors(), true));
+}
+ 
+if(isset($_GET['action']))
+{
+    if($_GET['action'] == 'add')
+    {
+        /*Insert data.*/
+        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, Message, GuestsNumber,GuestsNames,CreatedDate) VALUES (?,?,?,?,?,?,?)";
+        $params = array(&$_POST['Name'], 
+                        &$_POST['Email'],
+						&$_POST['Answer'],
+						&$_POST['Message'],
+						&$_POST['GuestsNumber'],
+						&$_POST['GuestsNames'], 
+                        date("Y-m-d"));
+        $stmt = sqlsrv_query($conn, $insertSql, $params);
+        if($stmt === false)
+        {
+            /*Handle the case of a duplicte e-mail address.*/
+            $errors = sqlsrv_errors();
+            if($errors[0]['code'] == 2601)
+            {
+                echo "The e-mail address you entered has already been used.<br />";
+            }/*Die if other errors occurred.*/
+            else
+            {
+                die(print_r($errors, true));
+            }
+        }
+    }
+}
+ 
+?>
                         
                     	</div><!-- .rsvpParaContainer --> 
                     </div><!-- .twelvecol .rsvp -->
